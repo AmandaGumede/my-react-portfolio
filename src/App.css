@@ -2,14 +2,19 @@
   text-align: center;
 }
 
+.List{
+  text-align: left;
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+  border-radius: 50%;
 }
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+    
   }
 }
 
